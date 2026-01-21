@@ -1,0 +1,24 @@
+.odd {
+    background-color: rgb(255, 167, 167);
+    font-family: verdana, "Dejavu Sans", sans-serif
+}
+
+.adjust-font-size {
+    font-size: 24px;
+}
+
+#second {
+    background-color: #00ff;
+    font-size: 36px;
+}
+/* 
+    .adjust-font-size ini adalah cara cerdas dan cara simple
+    untuk menyeragamkan ukuran font dan bisa memakai ke elemen
+    manapun
+    */
+    
+#fourth {
+    background-color:  hsl(120, 100%, 50%);
+    font-size: medium;
+    font-weight: bold;
+}
