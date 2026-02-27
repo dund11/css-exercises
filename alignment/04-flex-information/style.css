@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+img {
+    margin-bottom: 32px;
+    width: 100px;   
+    height: 100px;
+}
+
+.title {
+    font-size: 36px;
+    font-weight: 900;
+    margin-bottom: 48px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.info {
+    max-width: 200px;
+}
+
+
+.items {
+    gap: 52px;
+    display: flex;
+}
+
