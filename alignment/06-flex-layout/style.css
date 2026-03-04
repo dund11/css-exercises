@@ -51,16 +51,15 @@ input {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    gap: 16px; 
     flex-grow: 1;
-    gap: 20px; 
 }
 
 .footer {
     background: #eeeeee;
     display: flex;
     justify-content: space-between;
-    padding: 8px;
-    margin: 0px;
+    padding: 16px;
 }
 
 a {
